@@ -11,7 +11,8 @@ After downloading the *lean canvas* folder from GitHub, pick the "open folder as
 
 You can then start filling your business model canvas.
 
-[image link]
+<img width="1792" alt="Business Model Canvas template for Obsidian Screenshot 2023-12-14 at 12 26 32" src="https://github.com/YJPL/business-model-canvas-for-obsidian/assets/26725821/2f0c3529-caa8-4617-99d9-09ab41243cac">
+
 
 
 If you find this template useful and would like to support its development, you can sponsor me on Github, or buy me a coffee.
