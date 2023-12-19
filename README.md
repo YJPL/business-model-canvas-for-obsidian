@@ -1,7 +1,7 @@
 # Business Model Canvas template for Obsidian
-Business Model Canvas template for Obsidian and Obsidian Kanban*
+Business Model Canvas template for Obsidian and Obsidian Kanban.
 
-Lean canvas with its nine building blocks from [Strategyzer](https://www.strategyzer.com/library/the-business-model-canvas), ready to use with Obsidian.
+The business model canvas with its nine building blocks from [Strategyzer](https://www.strategyzer.com/library/the-business-model-canvas), ready to use with Obsidian.
 
 ## Requirements
 
