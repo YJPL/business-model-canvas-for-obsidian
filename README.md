@@ -6,7 +6,7 @@ The business model canvas with its nine building blocks from [Strategyzer](https
 
 You'll need the [Obsidian](https://obsidian.md) app installed.
 
-After downloading the *lean canvas* folder from GitHub, pick the "open folder as vault" option in Obsidian.
+After downloading the *lbusiness model canvas* folder from GitHub, pick the "open folder as vault" option in Obsidian.
 
 You can then start filling your business model canvas. The template has a bunch of Markdown files, one for each box or building block. 
 The .canvas file gathers all these text files together. You can input text on each .md file separately or type everything in the single .canvas document. 
