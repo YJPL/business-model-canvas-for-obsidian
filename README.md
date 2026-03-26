@@ -22,3 +22,9 @@ If you find this template useful and would like to support its development, you 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T013TB72)
 
 If you are looking for the lean business model, you can find the [lean canvas template for Obsidian here](https://github.com/YJPL/lean-canvas-for-obsidian).
+
+## Translations
+
+### French
+
+- [ ] [Business Model Canvas pour Obsidian en français](https://codeberg.org/Thoms/business-model-canvas-pour-obsidian), traduit par [Thomas Guillemot](https://github.com/ThomsGuillemot)
